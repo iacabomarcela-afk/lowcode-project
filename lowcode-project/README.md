@@ -1,5 +1,5 @@
 Low-Code Project
-A simple web application built with Python and Flash.
+A simple web application built with Python and Flask.
 
 What it does
 The application displays a welcome message in your browser.
